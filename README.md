@@ -1,30 +1,30 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=header&text=LIHA-ENGINEER&fontSize=40&fontColor=fdfdfd&stroke=fdfdfd&animation=blinking&fontAlign=80&fontAlignY=30&rotate=8)
-![LIHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=liha-engineer&theme=vue&show_icons=true&layout=compact)
+![LIHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=liha-engineer&theme=vue&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liha-engineer&theme=vue&layout=compact">
   
  <span style="font-family:omyu_pretty;">
     
 ### Tech stacks 💻📚
   #### BE
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FLASK-3776AB?style=flat&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   
   #### FE
-  <img src="https://img.shields.io/badge/HTML 5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS 3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   
   #### QA
-   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=Jira&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>  
+   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"/>  
   
   #### ENGINE (CURRENTLY LEARNING🌱)
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
  
   </span>
 </div>
