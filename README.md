@@ -18,9 +18,11 @@
 	<img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   
-  #### QA
+  #### Software Testing
    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"/>  
+   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white"/>
+   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   
   #### ENGINE (CURRENTLY LEARNING🌱)
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
