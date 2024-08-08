@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white"/>
   
   #### FE
   <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
