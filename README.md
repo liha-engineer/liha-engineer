@@ -8,15 +8,12 @@
     
 ### Tech stacks 💻📚
   #### BE
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FLASK-3776AB?style=for-the-badge&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"/>
+
   #### FE
   <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   
   #### Tools
@@ -27,7 +24,6 @@
   
   #### ENGINE (CURRENTLY LEARNING🌱)
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
  
   </span>
 </div>
